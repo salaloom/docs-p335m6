@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-p6gt1v.autoaicreator.com/sitemap.xml
